@@ -1,13 +1,13 @@
 ### 👋 Hi, I'm Le Vo Khanh Minh (levo-khanhminh)
 
-🎓 Software Engineering student with a focus on **backend development** and solid **frontend skills**.
+🎓 Software Engineering student with a focus on **backend development** and and also  doing with **frontend side**.
 
 ---
 
 ### 💻 Tech I'm Using
 
 - **Frontend:** React, React Native, Tailwind CSS, TypeScript, JavaScript  
-- **Backend:** Spring Boot, Spring Security, Hibernate, JPA, Node.js, Express  
+- **Backend:** Spring Boot, Spring Security, Hibernate, JPA, Node.js, ExpressJs 
 - **Database:** MongoDB, MySQL, SQL Server  
 - **Others:** .NET Web API, ASP.NET MVC, Git, Postman, AWS S3
 
@@ -33,4 +33,3 @@
 
 ---
 
-🌱 Always learning. Always building.
