@@ -23,8 +23,8 @@
 
 ### 📫 Reach Me
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: khanhminh.work@gmail.com 
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/minh-le-b238b232a/)
 
 ---
 
