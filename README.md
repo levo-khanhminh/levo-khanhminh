@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Le Vo Khanh Minh (levo-khanhminh)
-🎓 Software Engineering student with a focus on **backend development** and  **frontend skills**.
+### 🎓 Software Engineering student with a focus on **backend development** and  **frontend skills**.
 ---
 ### 💻 Tech I'm Using
 - **Frontend:** React, React Native, Tailwind CSS, TypeScript, JavaScript  
