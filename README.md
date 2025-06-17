@@ -20,11 +20,16 @@
 - Currently making a **music player mobile app** with React Native + Spring Boot REST API
 
 ---
+### 📈 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=levo-khanhminh&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levo-khanhminh&layout=compact&theme=tokyonight)
+---
 ### 📫 Reach Me
 
 - Email: khanhminh.work@gmail.com 
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/minh-le-b238b232a/)
+- LinkedIn: [linkedin.com/in/minh-levokhanh](https://www.linkedin.com/in/minh-le-b238b232a/)
 
 ---
 
