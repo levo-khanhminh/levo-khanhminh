@@ -1,14 +1,8 @@
-###  Hi, I'm Le Vo Khanh Minh (levo-khanhminh)
-Passionate developer focused on backend development with React + TypeScript for frontend. Currently building scalable APIs and learning cloud architecture.
+###  Hi, I'm Le Vo Khanh Minh (levo-khanhminh).
+
+Passionate developer focused on backend development and frontend skills. Currently building scalable APIs and learning cloud architecture.
 
 ---
-
-# Software Engineer
-
-Passionate developer focused on backend development with React + TypeScript for frontend. Currently building scalable APIs and learning cloud architecture.
-
----
-
 ## Tech Stack
 
 **Backend**
