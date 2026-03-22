@@ -41,6 +41,6 @@ Open to collaborating on backend projects and learning from experienced develope
 ---
 ### Reach Me
 - Email: khanhminh.work@gmail.com 
-- LinkedIn: [linkedin.com/in/minh-levokhanh](https://www.linkedin.com/in/minh-le-b238b232a/)
+- LinkedIn: [linkedin.com/in/minh-levokhanh](https://www.linkedin.com/in/levo-khanhminh)
 ---
 
